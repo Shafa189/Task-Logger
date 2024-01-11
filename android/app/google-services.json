@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69956068335",
+    "project_id": "notes-b5858",
+    "storage_bucket": "notes-b5858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69956068335:android:e7535d7379739d94cc4c1a",
+        "android_client_info": {
+          "package_name": "com.mobileprogramming.klp5_mp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUpXHOPalMp-2ab29BnciSGnjzBk00-88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
